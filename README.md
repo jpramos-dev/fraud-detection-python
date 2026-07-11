@@ -2,13 +2,13 @@
 
 Projeto de análise exploratória e detecção de fraudes em transações bancárias utilizando Python, técnicas estatísticas e Machine Learning.
 
-## Objetivos
+## 𖦏 Objetivos
 - Explorar dados transacionais
 - Identificar padrões de comportamento
 - Detectar anomalias com Z-Score e IQR
 - Aplicar Isolation Forest para detecção de fraudes
 
-## Tecnologias
+## 👨🏻‍💻 Tecnologias
 - Python
 - Pandas
 - Matplotlib
@@ -16,9 +16,17 @@ Projeto de análise exploratória e detecção de fraudes em transações bancá
 - Scikit-Learn
 - Jupyter Notebook
 
-## Dataset
+
+## 🛢️ Dataset
 O dataset utilizado está disponível neste repositório para fins educacionais.
 
-## Artigo
+## 📈 Resultados
+
+- Identificação de transações atípicas utilizando Z-Score e IQR
+- Análise de correlação entre variáveis financeiras
+- Detecção de anomalias utilizando Isolation Forest
+- Construção de visualizações para interpretação dos resultados
+
+## 📖 Artigo
 Leia o artigo completo no Medium:
 [https://medium.com/@joaopedrodesouzaramos/an%C3%A1lise-de-padr%C3%B5es-e-detec%C3%A7%C3%A3o-de-fraudes-utilizando-python-eff54771a03a]
